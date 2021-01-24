@@ -1,5 +1,46 @@
 # Getting started with Google Cloud Platform
 
+## The Google Cloud Platform Resource Hierarchy
+
+1. Choose the correct completion: Services and APIs are enabled on a per-__________ basis.
+
+- [X] Project
+- [ ] Folder
+- [ ] Organization
+- [ ] Billing account
+
+2. True or false: Google manages every aspect of Google Cloud Platform customers' security.
+
+- [ ] True
+- [X] False
+
+3. Your company has two GCP projects, and you want them to share policies. What is the less error-prone way to set this up?
+
+- [ ] Duplicate all the policies on one project onto the other
+- [X] Place both projects into a folder,and define policies on the folder
+
+## Resources and IAM
+
+1. When would you choose to have an organization node? (Choose all that are correct. Choose 2 responses.)
+
+- [X] When you want to create folders
+- [ ] When you want to organize resources into proyects
+- [X] When you want to apply organization-wide policies centrally
+- [ ] Theres is no choice; organization nodes are mandatory
+
+2. Order these IAM role types from broadest to finest-grained.
+
+- [X] Primitive roles, predefined roles, custom roles
+- [ ] Custom roles, predefined roles, primitive roles
+- [ ] Predefined roles, custom roles, primitive roles
+
+3. Can IAM policies that are implemented higher in the resource hierarchy take away access that is granted by lower-level policies?
+
+- [ ] Yes
+- [X] No
+
+## Getting started with Google Cloud Platform
+
 1. True or False: In Google Cloud IAM: if a policy applied at the project level gives you Owner permissions, your access to an individual resource in that project might be restricted to View permission if someone applies a more restrictive policy directly to that resource.
 
 - [ ] True

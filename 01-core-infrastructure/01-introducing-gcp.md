@@ -1,4 +1,31 @@
-# Introducing Google Cloud Platform
+# Introducting Google Cloud Platform
+
+## Cloud Computing Services
+
+1. Does a cloud computing service let you scale your resource use up and down?
+
+- [X] Yes
+- [ ] No
+
+1. To get resources from a cloud computing provider, is working with a person at the provider required?
+1 point
+
+- [ ] Yes
+- [X] No
+
+## GCP Regions and Zones
+
+1. Why might a GCP customer use resources in several zones within a region?
+
+- [X] For improved fault tolerance
+- [ ] For better performance
+
+2. Why might a GCP customer use resources in several regions around the world?
+
+- [X] To bring their applications closer to users around the world, and for improved fault tolerance
+- [ ] To improve security
+
+## Introducing Google Cloud Platform
 
 1. Choose fundamental characteristics of cloud computing. Mark all that are correct (4 correct responses).
 

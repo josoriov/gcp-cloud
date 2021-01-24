@@ -1,4 +1,29 @@
-# Compute Engine and Networking
+# Virtual Machines in the Cloud
+
+## Virtual Private Cloud (VPC) Network
+1. True or false? In Google Cloud VPCs, subnets have regional scope.
+
+- [X] True
+- [ ] False
+
+2. True or false: If you increase the size of a subnet in a custom VPC network, the IP addresses of virtual machines already on that subnet might be affected.
+
+- [ ] True
+- [X] False
+
+## Compute Engine
+
+1. True or false: You can create Compute Engine virtual machines from the command line.
+
+- [X] True
+- [ ] False
+
+2. What is the main reason customers choose Preemptible VMs?
+
+- [X] To reduce cost.
+- [ ] To improve performance.
+
+## Compute Engine and Networking
 
 1. True or False: Google Cloud Load Balancing allows you to balance HTTP-based traffic across multiple Compute Engine regions.
 
